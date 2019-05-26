@@ -1,6 +1,6 @@
 This repo contains codes used to reproduce the results in:
 
-[1] Shen, Macheng, et al. "Improving localization accuracy in connected vehicle networks using rao-blackwellized particle filters: Theory, simulations, and experiments." arXiv preprint arXiv:1702.05792 (2017).
+[1] Shen, Macheng, et al. "Improving localization accuracy in connected vehicle networks using rao-blackwellized particle filters: Theory, simulations, and experiments." IEEE Transactions on Intelligent Transportation Systems (2018). (https://arxiv.org/abs/1702.05792)
 
 [2] Rohani, Mohsen, Denis Gingras, and Dominique Gruyer. "A novel approach for improved vehicular positioning using cooperative map matching and dynamic base station DGPS concept." IEEE Transactions on Intelligent Transportation Systems 17.1 (2016): 230-239.
 
